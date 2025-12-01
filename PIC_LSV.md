@@ -1,4 +1,4 @@
-# PROTOCOL DE INIȚIERE CONTEXT (PIC) 
+# PROTOCOL DE INIȚIERE CONTEXT - Last Stable Version (PIC_LSV) 
 #### versiunea 2.0 
 #### Ultima actualizare: 01 decembrie 2025
 _____________________________
