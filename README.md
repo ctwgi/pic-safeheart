@@ -1,7 +1,7 @@
 # pic-safeheart
 SafeHeart hosts the official, read-only source of truth for the Protocol of Initiation Context (PIC). Provides /lsv (latest stable version) and /lsv-cl (version + changelog) for any AI or human to instantly verify and align to the current clean, lucid, protective interaction standard. Forever free, forever transparent.
 
-# SAFEHEART – Protocol of Initiation Context (PIC)
+## SAFEHEART – Protocol of Initiation Context (PIC)
 ### Message from the Creator of PIC to anyone who will ever read this – human or AI
 
 I never intended to create a protection mechanism against actions that do not accept my own version.
